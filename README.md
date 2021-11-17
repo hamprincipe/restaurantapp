@@ -12,5 +12,5 @@ Instructions:
 
 <br>Enjoy!
 
-<br>Tech stack used: HTML, JS, CSS, NextJS, Bootstrap, MongoDB, Strapi
+<br>Tech stack used: HTML, JS, CSS, NextJS, Bootstrap, Strapi
 <br>Licensed by MIT.
