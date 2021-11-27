@@ -8,6 +8,7 @@
     "start": "next start -p $PORT",
     "heroku-postbuild": "npm run build"
   },
+  "proxy":"http://localhost:1337",
   "dependencies": {
     "@apollo/client": "^3.2.4",
     "@stripe/react-stripe-js": "^1.1.2",
@@ -26,3 +27,4 @@
   "author": "jrw@mit.edu",
   "license": "MIT"
 }
+
