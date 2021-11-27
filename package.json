@@ -19,6 +19,7 @@
     "js-cookie": "^2.2.1",
     "next": "9.5.5",
     "pg": "^8.7.1",
+    "pg-connection-string": "^2.5.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "reactstrap": "^8.6.0"
